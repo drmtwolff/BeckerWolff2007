@@ -1,0 +1,8 @@
+show control
+
+initpackage  bwphys  bwphys.dat  /local-model-directory-path/
+lmod  bwphys  /local-model-directory-path/
+
+initpackage  bwsim   bwsim.dat   /local-model-directory-path/
+lmod  bwsim   /local-model-directory-path/
+
