@@ -1,0 +1,13 @@
+BWphys           12      .0       1.e20        F_bwphys        add      0
+AccRate      1.0e17    2.5935      0.01      0.01     100.0     100.0      0.01
+CompTemp        keV     4.000      0.10      0.10      10.0      10.0      0.01
+PolCapRad         m      60.0      10.0      10.0    4000.0    4000.0      0.01    
+MagField     1.0e12      4.26    1.0e-5    1.0e-5      40.0      40.0        -1 
+Distance        kpc       5.0      0.01      0.01    1000.0    1000.0    1.0e-4  
+NSMass        SolMs       1.4       1.0       1.0       1.6       1.6        -1
+NSRadius         km      10.0       9.0       9.0      12.0      12.0        -1
+SigmaPerp       " "      1.00      0.50      0.80      1.20      1.50        -1 
+SigmaPara       " "   3.84e-5    5.0e-6    5.0e-6    1.0e-1    1.0e-1    1.0e-7  
+SigmaBar        " "   1.91e-4    1.0e-5    1.0e-5    1.0e-1    1.0e-1    1.0e-7
+$ESwitch          0
+$ASwitch          0
