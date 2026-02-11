@@ -8,8 +8,8 @@ FLD = gfortran
 CP = cp -fv
 RM = rm -fv
 #
-#  These three variables need to be changed for each local
-#  installation of these codes and scripts. 
+#  The variables below need to be changed for each local
+#  installation of these codes.
 #
 #  Location of any extra libraries I need.
 #
