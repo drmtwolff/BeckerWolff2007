@@ -16,9 +16,9 @@ bwsim.f (bwsim.dat)
 The accompanying .dat files give the default starting parameters for the initial 
 model and the ranges for the parameters. The parameters can be separated into 
 two different but equivalent sets of parameters that fully specify a spectral 
-model. See Becker & Wolff 2007, ApJ, v.654, p.435, and Wolff et al. 2016,
-v.831, id.194, doi:10.3847/0004-637X/831/2/194, for explanations of the 
-parameters.
+model. See the enclosed file BWparameters.pdf along with the publications 
+Becker & Wolff 2007, ApJ, v.654, p.435, and Wolff et al. 2016, v.831, id.194, 
+doi:10.3847/0004-637X/831/2/194, for explanations of the parameters.
 
 There are also 2 C-codes in this release in the "source" directory along with
 a Makefile that can be edited to compile the two .c codes on each particular 
