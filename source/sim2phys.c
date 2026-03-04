@@ -78,7 +78,7 @@ int main(int argc, char **argv)
 	sigperp=1.0;
 	sigpara=0.0;
 	sigbar=0.0;
-	b12=0.0;
+	b12=1.0; /* Set Default Value */
 	xi=-1.0;
 	delta=-1.0;
 	w=1.0;   /*  Default value. */
@@ -145,7 +145,7 @@ int main(int argc, char **argv)
  				if ( comptem==0.00 ) printhelp=1;
 				break;
 			case 'v': /* OPTIONAL Print version information and exit. */
-				fprintf(stderr," SIM2PHYS Version: 1.47 Date: 2019/10/23\n");
+				fprintf(stderr," SIM2PHYS Version: 1.48 Date: 2025/05/23\n");
 				exit(1);
 				break;
 			case 'x': /* REQUIRED BW2007 "xi" similarity variable */
